@@ -2,7 +2,7 @@ const DELAY_IN_MS = 3000;
 const VIDEO_LENGTH_IN_MS = 20000;
 
 const VIDEO_HTML_STRING =
-  "<video autoplay loop style='height: 100vh; width: 100vw'><source src='lai.mp4' type='video/mp4'></video>";
+  "<video autoplay loop style='height: 100vh; width: 100vw'><source src='https://github.com/MineDark909/laify/blob/main/lai.mp4?raw=true' type='video/mp4'></video>";
 
 function laify() {
   setTimeout(() => {
